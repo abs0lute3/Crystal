@@ -5,7 +5,7 @@ menu that does X" to get a working script, or use it as a reference while
 building manually.
 
 ```lua
-local Crystal = loadstring(game:HttpGet("YOUR_SCRIPT_URL_HERE"))()
+local Crystal = loadstring(game:HttpGet("https://raw.githubusercontent.com/abs0lute3/Crystal/refs/heads/main/CrystalUI.lua"))()
 
 -- ---- Optional key system (gates everything below OnSuccess) ----
 Crystal:CreateKeySystem({
