@@ -5,9 +5,6 @@ menu that does X" to get a working script, or use it as a reference while
 building manually.
 
 ```lua
--- ============================================================
--- CRYSTAL UI v3.0 - Full API Reference / LLM Prompt
--- ============================================================
 
 local Crystal = loadstring(game:HttpGet("https://raw.githubusercontent.com/abs0lute3/Crystal/refs/heads/main/CrystalUI.lua"))()
 
